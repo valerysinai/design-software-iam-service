@@ -1,0 +1,27 @@
+target/
+*.class
+.env
+*.log
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+.worktrees/
+.claude/
+
+
+# Archivos locales excluidos de la entrega personal
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.exe
+node_modules/
+target/
+.DS_Store
+Thumbs.db
